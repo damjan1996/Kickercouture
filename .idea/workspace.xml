@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f779e236-291c-4a1e-b6ad-575d4fbea69f" name="Changes" comment="Initial Commit - 15.08.2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/HeroSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/HeroSection.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,7 @@
       <workItem from="1754577940477" duration="25083000" />
       <workItem from="1754657904948" duration="4104000" />
       <workItem from="1755177387444" duration="2554000" />
-      <workItem from="1755258160084" duration="4416000" />
+      <workItem from="1755258160084" duration="5981000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - 15.08.2025">
       <option name="closed" value="true" />
@@ -105,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755261845007</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit - 15.08.2025">
+      <option name="closed" value="true" />
+      <created>1755265536188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755265536188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

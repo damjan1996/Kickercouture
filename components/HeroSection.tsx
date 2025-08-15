@@ -287,6 +287,10 @@ export default function HeroSection() {
                 background: 'transparent',
                 color: '#ff6b00',
                 border: '4px solid #ff6b00',
+                boxShadow: `
+                  4px 4px 0px #000000,
+                  8px 8px 0px rgba(0,0,0,0.3)
+                `,
                 transform: 'translateY(0)',
                 transition: 'all 0.1s steps(1)',
               }}
