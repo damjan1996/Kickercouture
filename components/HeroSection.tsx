@@ -94,7 +94,7 @@ export default function HeroSection() {
         />
 
         {/* Content */}
-        <div className="h-full flex flex-col items-center justify-center text-center px-2 sm:px-8 relative z-10 pt-20 sm:pt-24">
+        <div className="h-full flex flex-col items-center justify-center text-center px-2 sm:px-8 relative z-10 pt-20 sm:pt-80">
           {/* Main Title with Pixel Font Style */}
           <motion.h1 
             className={`relative mb-2 sm:mb-4 mt-4 sm:mt-8 ${chromatic ? 'crt-chromatic' : ''}`}
